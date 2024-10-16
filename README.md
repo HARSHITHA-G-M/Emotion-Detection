@@ -1,0 +1,1 @@
+This code captures real-time video from the webcam, detects faces, analyzes the emotions of those faces using the DeepFace library, and displays the results on the screen. Pressing 'q' will exit the application.

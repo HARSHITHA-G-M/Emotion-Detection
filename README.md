@@ -41,3 +41,7 @@ This project captures **real-time video** from your webcam, detects faces, and a
 pip install deepface opencv-python
 
 python emotion_detection.py
+
+
+🌟 Star the Repo
+If you found this helpful, please star ⭐ the repo to support my work!
